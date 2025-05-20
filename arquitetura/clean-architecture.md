@@ -16,6 +16,7 @@ Clean Architecture é um conjunto de princípios para organizar o código de for
 
 ## 🧱 Camadas da Clean Architecture
 
+```
 +-----------------------+
 | UI / Interface | ← camada externa (ex: Web, Mobile)
 +-----------------------+
@@ -25,7 +26,7 @@ Clean Architecture é um conjunto de princípios para organizar o código de for
 +-----------------------+
 | Infrastructure | ← acesso a banco, frameworks, APIs externas
 +-----------------------+
-
+```
 
 ---
 

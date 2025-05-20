@@ -44,3 +44,4 @@ Sua contribuição é muito bem-vinda! Para colaborar com conteúdo, melhorias o
 2. Crie uma branch com um nome descritivo:  
    ```bash
    git checkout -b minha-curadoria
+   ```

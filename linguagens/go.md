@@ -37,6 +37,7 @@ Go, também conhecido como Golang, é uma linguagem desenvolvida pelo Google com
 
 ## 🧱 Estrutura comum de projeto (com Gin)
 
+```
 meu-projeto/
 ├── main.go
 ├── controllers/
@@ -44,7 +45,7 @@ meu-projeto/
 ├── models/
 ├── services/
 └── config/
-
+```
 
 ---
 

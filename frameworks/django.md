@@ -17,6 +17,7 @@
 
 ## 🧱 Estrutura comum de um projeto Django
 
+```
 meu_projeto/
 ├── manage.py
 ├── meu_projeto/
@@ -30,7 +31,7 @@ meu_projeto/
 │ ├── views.py
 │ ├── urls.py
 │ └── serializers.py (caso use Django REST Framework)
-
+```
 
 ---
 

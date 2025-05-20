@@ -16,6 +16,7 @@
 
 ## 🧱 Estrutura comum de um projeto Spring Boot
 
+```
 meu-projeto/
 ├── src/
 │ └── main/
@@ -30,7 +31,7 @@ meu-projeto/
 │ ├── application.properties
 │ └── static/
 ├── pom.xml
-
+```
 
 ---
 

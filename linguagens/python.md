@@ -26,6 +26,7 @@ Python é uma linguagem poderosa, simples e muito usada no desenvolvimento de ap
 
 ## 🧱 Estrutura comum de um projeto
 
+```
 meu_projeto/
 ├── app/
 │ ├── init.py
@@ -36,7 +37,7 @@ meu_projeto/
 │ └── test_app.py
 ├── requirements.txt
 └── main.py
-
+```
 
 ---
 

@@ -16,6 +16,7 @@
 
 ## 🧱 Estrutura comum de um projeto Express
 
+```
 meu-projeto/
 ├── node_modules/
 ├── src/
@@ -26,7 +27,7 @@ meu-projeto/
 ├── .env
 ├── package.json
 └── server.js
-
+```
 
 ---
 

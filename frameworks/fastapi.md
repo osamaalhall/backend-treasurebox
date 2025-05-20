@@ -17,6 +17,7 @@
 
 ## 🧱 Estrutura comum de projeto FastAPI
 
+```
 meu_projeto/
 ├── main.py
 ├── app/
@@ -29,7 +30,7 @@ meu_projeto/
 │ └── services/
 ├── requirements.txt
 └── Dockerfile
-
+```
 
 ---
 

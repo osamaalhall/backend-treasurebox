@@ -27,6 +27,7 @@ Java é uma das linguagens mais usadas no mundo corporativo para o desenvolvimen
 
 ## 🧱 Estrutura comum de um projeto com Spring Boot
 
+```
 meu-projeto/
 ├── src/
 │ └── main/
@@ -41,7 +42,7 @@ meu-projeto/
 │ ├── application.properties
 │ └── static/
 ├── pom.xml
-
+```
 
 ---
 
